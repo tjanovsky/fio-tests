@@ -29,6 +29,10 @@ make install
 
 ## Usage
 
+**Original FIO docs:**
+
+[link](https://fio.readthedocs.io/en/master/index.html)
+
 **Basic run:**
 ```bash
 fio jobfile.fio
